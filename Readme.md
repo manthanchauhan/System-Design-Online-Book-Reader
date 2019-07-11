@@ -19,4 +19,4 @@ Creating the design of an Online Book Reader System (OBR).
 6. Bookmark
 ## Database 
 Used PostgreSQL.  
-![ER diagram](https://www.lucidchart.com/invitations/accept/13bae429-813e-4f54-b6f9-de1a229e9b0b)
+![ER diagram](Online-Book-Reader.png)
